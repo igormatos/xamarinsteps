@@ -1,0 +1,17 @@
+{
+  "name": "xamarin-steps",
+  "version": "0.1.0",
+  "description": "Some commands to help Xamarin Forms Developers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Matos",
+  "license": "MIT",
+  "bin": {
+    "xs": "bin/clean.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  },
+  "preferGlobal": "true"
+}
