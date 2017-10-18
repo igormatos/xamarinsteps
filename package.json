@@ -1,6 +1,6 @@
 {
   "name": "xamarin-steps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Some commands to help Xamarin Forms Developers",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
