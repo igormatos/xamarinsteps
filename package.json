@@ -1,9 +1,14 @@
 {
   "name": "xamarin-steps",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Some commands to help Xamarin Forms Developers",
+  "homepage": "https://github.com/igormatos/xamarinsteps",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:igormatos/xamarinsteps.git"
   },
   "author": "Igor Matos",
   "license": "MIT",
